@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Logowanie do aplikacji z poprawnymi danymi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbdbd33b-7b67-4dea-bc65-46395375fd2c</testCaseGuid>
+   <variable>
+      <defaultValue>'Jan Demobankowy'</defaultValue>
+      <description>Nazwa użytkownika</description>
+      <id>df9b9f53-5582-4528-be84-07291bf000a4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

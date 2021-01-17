@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Wykonanie przelewu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffba56d3-a142-4521-9bbb-18efec7c5748</testCaseGuid>
+   <variable>
+      <defaultValue>'Zbyszek Bogdaniec'</defaultValue>
+      <description>Nazwisko odbiorcy</description>
+      <id>0916c811-8e5b-4f38-a285-be66b3c7e508</id>
+      <masked>false</masked>
+      <name>receiver_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'12 3456 7890 1234 5678 9012 3456'</defaultValue>
+      <description>Numer konta odbiorcy</description>
+      <id>ee5a658d-82e7-4f39-b7d4-b16ffa95ad19</id>
+      <masked>false</masked>
+      <name>receiver_acc_number</name>
+   </variable>
+   <variable>
+      <defaultValue>'158,92'</defaultValue>
+      <description>Kwota przelewu</description>
+      <id>707d78ec-7559-4d52-94c7-3092b535889c</id>
+      <masked>false</masked>
+      <name>amount_money</name>
+   </variable>
+</TestCaseEntity>

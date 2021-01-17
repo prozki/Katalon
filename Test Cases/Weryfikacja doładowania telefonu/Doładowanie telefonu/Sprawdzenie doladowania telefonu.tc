@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Weryfikacja opcji doladowania telefonu</description>
+   <name>Sprawdzenie doladowania telefonu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a85a4ec6-792c-4330-bcc0-fa428de2c5a7</testCaseGuid>
+   <variable>
+      <defaultValue>'100\t'</defaultValue>
+      <description>Kwota doladowania</description>
+      <id>edb7ddda-590e-44b0-8c5b-d6c190f2297b</id>
+      <masked>false</masked>
+      <name>tel_amount</name>
+   </variable>
+</TestCaseEntity>
